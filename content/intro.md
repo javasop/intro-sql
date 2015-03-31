@@ -18,5 +18,3 @@
 DELETE FROM user Where name = "Sam"
 
 ```
-
-## Example
