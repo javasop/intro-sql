@@ -2,70 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b296654-b39a-45b4-933d-387d767d3719" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/league_gothic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/league_gothic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/league_gothic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/beige.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/beige.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/binding.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/blood.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/blood.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/bootstrap.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/classList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/controllers.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/customdirectives.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/default.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/dependencies.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/directives.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/directives2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/filters.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/forms.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/head.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-original.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/intro-sql.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/intro.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/javascript-way.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/league_gothic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/league_gothic_license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/template/mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/modules.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/moon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/moon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/night.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/night.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/npm-debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/print/paper.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/print/pdf.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reveal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reveal.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/serif.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/serif.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/services.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/template/settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/simple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/simple.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/sky.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/sky.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/solarized.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/solarized.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/template/theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/todo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/zenburn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/examples/assets/image1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/examples/assets/image2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/examples/barebones.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/multiplex/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/notes-server/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/examples/embedded-media.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/markdown/example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/postmessage/example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/markdown/example.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/highlight/highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/multiplex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/notes-server/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/leap/leap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/markdown/markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/markdown/marked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/multiplex/master.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/examples/math.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/math/math.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/notes/notes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/notes-server/notes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/notes/notes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/postmessage/postmessage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/print-pdf/print-pdf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/qunit-1.12.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/qunit-1.12.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/remotes/remotes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/reveal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/reveal.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/search/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/examples/slide-backgrounds.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown-element-attributes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown-element-attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown-slide-attributes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown-slide-attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/zoom-js/zoom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/font/league_gothic-webfont.eot" afterPath="$PROJECT_DIR$/lib/font/league_gothic-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/javascript-way.md" afterPath="$PROJECT_DIR$/content/javascript-way.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/todo.js" afterPath="$PROJECT_DIR$/examples/todo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="intro-sql.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,12 +72,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/content/intro.md" />
+      </list>
+    </option>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1920" />
+    <option name="width" value="790" />
     <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -157,6 +143,38 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -170,16 +188,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1090" extended-state="7" />
+    <frame x="0" y="23" width="790" height="1090" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.62700534" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -225,8 +243,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1995">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.29126215" vertical-offset="690" max-vertical-offset="1995">
+          <caret line="58" column="27" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
           <folding />
         </state>
       </provider>

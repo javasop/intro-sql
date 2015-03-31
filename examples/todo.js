@@ -6,8 +6,9 @@ $(document).ready(function() {
 
     listArray = [];
     input = $('#list-input');
+    submitButton = $('#submit');
     list = $('#list');
-
+    deleteButton = $('.delete');
 
     addToList = function(item){
 
@@ -18,34 +19,31 @@ $(document).ready(function() {
 
     deleteFromList = function(item){
 
-        index = listArray.indexOf(item)
-        if(index > -1){
-            listArray.splice(index,1);
-        }
-        updateDisplay()
+
 
     }
 
     updateDisplay = function(){
 
         list.empty()
-
-        deleteButton = '<button class="delete">Delete</button>'
-
         for(i=0;i<listArray.length;i++){
             item = listArray[i];
-
-            listItem = $('<li id='+item+'>' + item +'</li>'+ deleteButton);
-
+            listItem = $('<div class=".container"><li id='+item+'>' + item +'</li>'+'<button class="delete">Delete</button></div>');
             list.append(listItem)
         }
 
     }
 
 
-    $(document).on('click','#submit',function(el){
+    //button to add and delete from list
+    submitButton.click(function () {
         value = input.val();
         addToList(value)
+
+    })
+
+    $(document).on('click','#submit',function(el){
+
 
     })
 
@@ -54,11 +52,15 @@ $(document).ready(function() {
 
         sibling = $(todo).siblings('li')
 
-        item = sibling[0].innerHTML;
+        console.log(sibling[0].innerHTML)
 
-        deleteFromList(item);
-
+        deleteFromList()
     })
 
+
+    //$('#submit').submit( function(e) {
+    //    e.preventDefault();
+    //    return false;
+    //});
 
 })

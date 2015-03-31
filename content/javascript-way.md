@@ -62,10 +62,10 @@ We usually update the list everytime we make changes
     updateDisplay = function(){
 
         list.empty()
-        deleteButton = '<button class="delete">Delete</button>'
+        deleteButton = '<button class="delete">Delete</button></div>'
         for(i=0;i<listArray.length;i++){
             item = listArray[i];
-            listItem = $('<li id='+item+'>' + item +'</li>'+ deleteButton);
+            listItem = $('<div class=".container"><li id='+item+'>' + item +'</li>'+ deleteButton);
             list.append(listItem)
         }
 
