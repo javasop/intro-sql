@@ -1,24 +1,22 @@
-### What you'll need to know
+### SQL
 
-- HTML
-- CSS
-- JavaScript
-- DOM
+- Structured Query Language.
 
+- Standard way to define, store, manipulate data.
 
-
-## What is AngularJS
-&ldquo;AngularJS is not a library.&rdquo; <!-- .element: class="fragment" cite="https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/" -->
-
-&ldquo;AngularJS is a JavaScript framework that embraces extending HTML into a more expressive and readable format.&rdquo; <!-- .element: class="fragment" cite="https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/" -->
-
-&ldquo;AngularJS fits the definition of a framework the best, even though it's much more lightweight than a typical framework and that's why many confuse it with a library&rdquo; <!-- .element: class="fragment" cite=""https://docs.angularjs.org/misc/faq" -->
+- Industry standard.
 
 
+## Why use SQL
 
-## Why use AngularJS?
-Organization <!-- .element: class="fragment" -->
+- Unified and Shared language to manage data which can span multiple systems.
 
-Fast (responsive) websites <!-- .element: class="fragment" -->
+- Syntax is close to spoken language.
 
-Easy to test <!-- .element: class="fragment" -->
+```html
+
+DELETE FROM user Where name = "Sam"
+
+```
+
+## Example
