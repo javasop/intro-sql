@@ -26,19 +26,14 @@ SELECT * FROM students where name = "sam"
 
 - Orders records after SELECT.
 
-```html
+```sql
 
-SELECT * FROM students where name = "sam"
+SELECT * FROM students ORDER BY name desc
 
 ```
+- this will sort the result by name in a descending order (alphabetically)
 
 
 ## GROUP BY
 
 - Groups records after SELECT to perform certain operations.
-
-
-## DEMO
-
-- Let's do a simple demo in .... @todo
-

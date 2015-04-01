@@ -6,7 +6,7 @@
 
 - We can add new attributes to an already created table.
 
-- Remember everything is permanently store our data (persist them). We don't reset our application as in Ruby or other programming languages.
+- Remember everything is permanently stored. We don't reset our application as in Ruby or other programming languages.
 
 
 ## in SQL

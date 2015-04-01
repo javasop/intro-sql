@@ -1,17 +1,9 @@
 ### Data Types
 
-- We have a school, let's call it Turing. Turing has students, teachers, classes and courses.
+- Many data types for Columns:
 
+varchar, char, text, int, boolean ... etc
 
-## Database
+- Differs slightly from one DBMS to another.
 
-- we first start by creating a Database. A database is a container for our data. Let's call it Turing.
-
-in SQL
-
-```html
-
-CREATE DATABASE Turing
-
-```
-
+- Read the manual
