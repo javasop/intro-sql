@@ -1,13 +1,15 @@
 ### DATABASE
 
-- We have a school, let's call it Turing. Turing has students, teachers, classes and courses.
+- Container for all our data.
 
 
-## Database
+## Example
 
-- we first start by creating a Database. A database is a container for our data. Let's call it Turing.
+- We have a school, let's call it Turing.
 
-in SQL
+- Turing has: students, classes, teachers, courses and many other objects.
+
+in SQL, we create a database first
 
 ```html
 

@@ -1,16 +1,41 @@
 ### Tables
 
-- In Turing, we have teachers, students, courses, classes. They are the "things" that are in our database.
+- Teachers, students, classes, courses. They are similar to Classes in Ruby.
 
-- We define these in what we call Tables. And they look like tables you see in any application (word, excel .. etc)
+- They look like tables you see in any application (word, excel .. etc)
 
-- Each table has rows, and columns
+&nbsp;
 
-- Columns give properties to our data or table: name, age, gender, race ... etc
-
-- Rows are entries in our table: Sam, Rebecca, John etc
+&nbsp;
+Student
 
 |  Name       |     Age   | Gender
 |:-------------|------------- :| ------------- :|
-|  Sam        |     25    | Male |
-|  Rebecca    |     21    | Female |
+|  John        |     25    | Male |
+|  Sam   |     21    | Female |
+
+
+## Create Table SQL
+
+in Ruby, we do this
+
+```ruby
+class Student
+    def initialize(name,age,gender)
+       @name = name
+       @age = age
+       @gender = gender
+    end
+end
+
+```
+in SQL
+```sql
+
+CREATE TABLE Student (
+name text,
+age int,
+gender text
+);
+
+```
