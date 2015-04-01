@@ -11,6 +11,8 @@
 
 - We do that with a SELECT statement.
 
+- Where clause can accept: =, >, <, >=, <=, !=
+
 ```html
 
 SELECT * FROM students where name = "sam"
@@ -18,6 +20,25 @@ SELECT * FROM students where name = "sam"
 ```
 
 
-## Demo
+## ORDER BY
 
-- Let's demo this in PhpMyAdmin.
+- Flavors we add to our SELECT statements.
+
+- Orders records after SELECT.
+
+```html
+
+SELECT * FROM students where name = "sam"
+
+```
+
+
+## GROUP BY
+
+- Groups records after SELECT to perform certain operations.
+
+
+## DEMO
+
+- Let's do a simple demo in .... @todo
+
