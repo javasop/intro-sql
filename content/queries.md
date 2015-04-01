@@ -1,6 +1,6 @@
 ### Queries
 
-- The Q in SQL. We need a way to do a search on our data.
+- We need a way to do a search on our data.
 
 - This answers the question: I need to get a subset of my data that satisfies a condition.
 
@@ -37,3 +37,11 @@ SELECT * FROM students ORDER BY name desc
 ## GROUP BY
 
 - Groups records after SELECT to perform certain operations.
+
+```sql
+
+SELECT count(*) FROM students GROUP BY cohort
+
+```
+
+- this will return the number of student in each cohort.

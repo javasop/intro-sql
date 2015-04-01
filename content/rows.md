@@ -41,7 +41,9 @@ DELETE FROM Student WHERE name = 'sam'
 
 ## Updating Rows
 
-- To update a record, locate it first and then modify it.
+- To update a record, we set the column name and value.
+
+- Don't Forget to locate where the changed record is.
 
 ```sql
 

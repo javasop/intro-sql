@@ -2,12 +2,12 @@
 
 - Container for all our data.
 
+- Think of it as the application name. Example: Task Manager, Sales Engine, Turing.
+
 
 ## Example
 
-- We have a school, let's call it Turing.
-
-- Turing has: students, classes, teachers, courses and many other objects.
+- Turing has: students, classes, teachers, courses and many other objects (Tables).
 
 in SQL, we create a database first
 

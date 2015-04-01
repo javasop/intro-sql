@@ -27,7 +27,9 @@ name varchar(10) not null,
 
 age int,
 
-gender char(1)
+gender char(1),
+
+cohort text
 
 CONSTRAINT age_limit CHECK (age>=18)
 );

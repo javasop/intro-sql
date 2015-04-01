@@ -1,12 +1,12 @@
 ### Columns
 
-- Equivalent to properties or attributes in a class.
+- Equivalent to instance variables in Ruby.
 
 - In our Previous example: name, age, gender are columns.
 
 - We can add new attributes to an already created table.
 
-- Remember everything is permanently stored. We don't reset our application as in Ruby or other programming languages.
+- Remember everything is permanently stored. We don't reset our application and start over again.
 
 
 ## in SQL
