@@ -12,8 +12,5 @@
 
 |  Name       |     Age   | Gender
 |:-------------|------------- :| ------------- :|
-|  Sam        |     25    | Male
-|  Rebecca    |     21    | Female
-
-
-
+|  Sam        |     25    | Male |
+|  Rebecca    |     21    | Female |
